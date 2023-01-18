@@ -1,4 +1,12 @@
-### Hi there 👋
+### 这里是`阮喵喵` 👋
+
+- 正在学习如何使用`vite`+`ts`的架构，来重构`rmmv`项目
+- 重点关注各类文档框架
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=RuanZhongNan&count_private=true&show_icons=true&theme=dracula" />
+
+
+
 
 <!--
 **RuanZhongNan/RuanZhongNan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
